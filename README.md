@@ -1,6 +1,6 @@
-# Welcome to OpenRec!
+# Welcome to RebootedRec!
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+RebootedRec is a RecRoom server software made by Pirzthia-Hash!
 
 ### Branches
  - Master / main
